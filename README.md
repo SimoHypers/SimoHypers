@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nouichi</h1>
 <h3 align="center">Computer Engineer who loves everything Software 👨‍💻</h3>
 
-- 🔭 I’m currently working on **Portfolio Website** and **LoLTracker**
+- 🔭 I’m currently working on **Personalized AI Courses App**
 
-- 🌱 I’m currently learning **Javascript & GoLang**
+- 🌱 I’m currently learning **Next Js, Tailwindcss, TypeScript**
 
 - 📫 How to reach me **mohamednouichi06@gmail.com**
 
