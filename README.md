@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Amply<br>🌱 I’m currently learning Nextjs, Tailwindcss, TypeScript<br>📫 How to reach me mohamednouichi06@gmail.com
+🔭 I’m currently working on SlowNight<br>🌱 I’m currently learning Nextjs, Tailwindcss, TypeScript<br>📫 How to reach me mohamednouichi06@gmail.com
 
 
 ## 🌐 Socials:
