@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nouichi</h1>
-- 🔭 I’m currently working on **SlowNight**
+- 🔭 I’m currently working on **Thrifteye**
 
 - 📫 How to reach me **mohamednouichi06@gmail.com**
 
