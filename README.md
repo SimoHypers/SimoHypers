@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nouichi</h1>
 <h2 align="center">Software Developer Based in Dubai</h2>
 
+- 👓 Currently working on: **Linkify**
 - 📫 How to reach me **mohamednouichi06@gmail.com**
 
 <div> <a href="https://github.com/SimoHypers" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
