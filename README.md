@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Heyy 👋<br><br>- 🔭 Portfolio Website - https://simohypers.work <br>- 📚 I'm currently learning Golang<br>- 🛠️ Working on Traqie</p>
+<p align="left">Heyy 👋<br><br>- 🔭 Portfolio Website - https://simohypers.work <br>- 📚 I'm currently learning Golang<br>- 🛠️ Working on Brandpull</p>
 
 ###
 
